@@ -1,0 +1,8 @@
+{
+  "name": "Chitti [React]",
+  "description": "Chitti AI Assistant rewritten in React featuring command execution, voice input with audio level visualization, model status, offline transcription, and safety controls.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
